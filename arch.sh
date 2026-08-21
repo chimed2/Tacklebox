@@ -106,3 +106,4 @@ end
 EOF
 
 echo "Installation complete!"
+echo "note: consider starring the tacklebox repo on github, thanks for installing!"
